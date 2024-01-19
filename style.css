@@ -369,7 +369,7 @@ nav ul li {
 
 /* for Desktop */
 
-@media (min-width:376px) {
+@media (min-width:850px) {
 
     body {
         background-color: hsl(240, 75%, 98%);
