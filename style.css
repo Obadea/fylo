@@ -45,7 +45,7 @@ nav ul li {
     bottom: -2px;
     left: 0;
     width: 100%;
-    height: 3px;
+    height: 4px;
     background-color: hsl(243, 87%, 12%);
     visibility: hidden;
     transform: scaleX(0);
@@ -55,7 +55,7 @@ nav ul li {
 .navInfo p:hover::after {
     visibility: visible;
     transform: scaleX(1);
-    height: 3px;
+    height: 4px;
     width: 100%;
 
 }
