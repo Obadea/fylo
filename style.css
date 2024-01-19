@@ -48,7 +48,7 @@ nav ul li {
     height: 2px;
     background-color: hsl(243, 87%, 12%);
     visibility: hidden;
-    transform: scaleX(0);
+    transform: scaleX(1);
     transition: all 0.3s ease-in-out;
 }
 
